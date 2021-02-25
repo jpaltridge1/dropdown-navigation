@@ -63,7 +63,7 @@ header a {
     background-color: #fff;
 }
 
-.menu li > ul:hover {
+.menu ul li ul > ul:hover {
     background-color: gainsboro;
 }
 
