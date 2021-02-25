@@ -60,8 +60,11 @@ header a {
     visibility: visible;
     opacity: 1;
     display: block;
-    background-color: gainsboro;
+    background-color: #fff;
+}
 
+.menu li > ul:hover {
+    background-color: gainsboro;
 }
 
 .menu li li {
